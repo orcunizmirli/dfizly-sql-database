@@ -39,3 +39,5 @@ The information the official wants to see is as follows:
 16- Users' name, surname, registration date, gender, date of birth, e-mail address, phone number, membership package, membership expiry date information should be kept.
 
 17- Details of member packages and pricing information should be available.
+
+![er](https://user-images.githubusercontent.com/79844199/109548119-4fcb0b80-7add-11eb-9f51-4576063dd224.png)
