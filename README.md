@@ -1,3 +1,4 @@
+
 # dfizly-sql-database
 SQL Database for the Media Streaming Platform
 
@@ -41,3 +42,4 @@ The information the official wants to see is as follows:
 17- Details of member packages and pricing information should be available.
 
 ![er](https://user-images.githubusercontent.com/79844199/109548119-4fcb0b80-7add-11eb-9f51-4576063dd224.png)
+![Screenshot_2](https://user-images.githubusercontent.com/79844199/109548178-5d809100-7add-11eb-9105-d5ddd5808b1d.png)
